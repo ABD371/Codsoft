@@ -1,0 +1,41 @@
+    body {
+        background-color: #e0e0e0;
+    }
+
+    .calculator {
+        max-width: 400px;
+        margin: 50px auto;
+        background-color: #f4f4f4;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+    }
+
+    .card {
+        background-color: #f4f4f4;
+        border: none;
+    }
+
+    .form-control {
+        background-color: #e0e0e0;
+        border: none;
+        color: #333;
+    }
+
+    .btn-outline-secondary {
+        background-color: #d0d0d0;
+        color: #333;
+    }
+
+    .btn-outline-secondary:hover {
+        background-color: #c0c0c0;
+    }
+
+    .btn-outline-danger {
+        background-color: #ff6666;
+        color: #fff;
+    }
+
+    .btn-outline-danger:hover {
+        background-color: #e55b5b;
+    }
